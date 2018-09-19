@@ -1,0 +1,16 @@
+Ex 1 (*2)
+	Run "Hello, world" program
+
+Ex 2 (*1)
+	For each declaration from ch 4.9 do following:
+	If a declaration is not a definition, write corresponded definition
+	If definition is not declaration then write declaration that not definition also;
+	
+Ex 3 (*1.5)
+	Write a program typing sizes of fundamental types, several types of pointers and several types of enumerations. Use "sizeof" operator
+	
+Ex 4 (*1.5)
+	Write a program typing letters from 'a' till 'z' and numbers from '0' till '9' and their integer values. Do the same for other visible symbols and so on using hexidecimal output
+	
+Ex 5 (*2)	
+	What are the minimum and maximum values of following types variables: char, short, int, float, double, long double, unsigned.
