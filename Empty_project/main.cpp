@@ -1,8 +1,8 @@
 /*
  * main.c
  *
- *  Created on: 19 сент. 2018 г.
- *      Author: Владимир
+ *  Created on: 28 jan 2019 г.
+ *      Author: Vladimir Kazantsev
  */
 
 

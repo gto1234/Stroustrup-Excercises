@@ -1,0 +1,14 @@
+Ex 1 (*1)
+	Write folllowing declarations:
+	- Pointer to symbol,
+	- Array from 10 integer items
+	- Reference to array from 10 integer items
+	- Pointer to array of symbolic ыекштпы
+	- Pointer to pointer to symbol
+	- Constant integer
+	- Pointer to constant integer
+	- Constant pointer to integer
+	Initialize all objects
+	
+
+
